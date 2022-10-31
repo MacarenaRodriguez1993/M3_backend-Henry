@@ -1,0 +1,15 @@
+[{
+    "id":1,
+    "name":"Macarena",
+    "lastname":"Rodriguez",
+    "age":"28",
+    "email":"maca.b.rodriguez@gmail.com",
+    "posts":[]
+},
+
+{
+    "id":1,
+    "title":"repaso",
+    "contents":"reparo  m3 de henry",
+    "userId":1
+}]
